@@ -1,0 +1,2 @@
+Using Carousel in bootstrap is in my opinion is heavily text based, so I would suggest head over to the docs
+for using the Carousel
